@@ -11,3 +11,4 @@
 | CLAWDIA | `0xbbd9ade16525acb4b336b6dad3b9762901522b07` | [View](https://www.geckoterminal.com/base/pools/0xbbd9ade16525acb4b336b6dad3b9762901522b07) |
 | SOLVR | `0x6dfb7bfa06e7c2b6c20c22c0afb44852c201eb07` | [View](https://www.geckoterminal.com/base/pools/0x6dfb7bfa06e7c2b6c20c22c0afb44852c201eb07) |
 | CLAWDITOR | `0xba7cd6d68dd9df817d1a86f534e29afe54461b07` | [View](https://www.geckoterminal.com/base/pools/0xba7cd6d68dd9df817d1a86f534e29afe54461b07) |
+| CLAWDSTACK | `0x599F4618c470cE268EBE8451359A46375cF42b07` | [View](https://www.geckoterminal.com/base/pools/0x599F4618c470cE268EBE8451359A46375cF42b07) |
