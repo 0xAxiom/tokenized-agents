@@ -1,6 +1,10 @@
+<p align="left">
+  <img src="bankr-logo.png" alt="Bankr">
+</p>
+
 # Tokenized Agents
 
-A community-maintained registry of tokenized AI agents built on Bankr.
+A community-maintained registry of tokenized AI agents deployed through Bankr.
 
 ## What is this?
 
@@ -20,23 +24,13 @@ The biggest problem with crypto agents is slop. Bankr's solution is an auto-comp
 
 The goal: onchain agents that get smarter at an accelerating pace—and self-funding too.
 
-## Contributing Skills
-
-This is the public community repository for Bankr skills. We encourage builders to contribute skills here that all agents can use.
-
-To contribute a skill:
-1. Fork this repository
-2. Add your skill
-3. Open a pull request
-
-Once merged, any Bankr-powered agent can plug it in and level up. When all agents have access to vetted, powerful skills, we ensure those agents are not vaporware.
-
 ## Start Building
 
-Want to start building or trading onchain with Claude? Get started with Bankr's plugins and skills:
+Want to start building with Bankr? Get started with plugins and skills:
 
-- [Moltbot Skills](https://github.com/BankrBot/moltbot-skills)
-- [Claude Code Plugins + Skills](https://github.com/BankrBot/claude-plugins)
+- [Moltbot Skills](https://github.com/BankrBot/moltbot-skills) - A public library of community created skills to power up your agents.
+- [Bankr Claude Code Plugins + Skills](https://github.com/BankrBot/claude-plugins) - Bankr specific Claude code integrations
+- [Bankr Agent API](https://www.notion.so/Agent-API-2e18e0f9661f80cb83ccfc046f8872e3) - Control a Bankr wallet programatically (available also in the skills and plugins)
 
 Power up with Polymarket skills, technical analysis, token launching, advanced orders, cross-chain swaps, perps, and more.
 
